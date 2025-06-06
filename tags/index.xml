@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on All about Earth Imaging</title>
+    <link>https://example.org/tags/</link>
+    <description>Recent content in Tags on All about Earth Imaging</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 03 Jun 2025 15:30:53 +0100</lastBuildDate>
+    <atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Research Question</title>
+      <link>https://example.org/tags/my-research-question/</link>
+      <pubDate>Tue, 03 Jun 2025 15:30:53 +0100</pubDate>
+      <guid>https://example.org/tags/my-research-question/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Physics Informed Neural Network</title>
+      <link>https://example.org/tags/physics-informed-neural-network/</link>
+      <pubDate>Tue, 03 Jun 2025 15:30:53 +0100</pubDate>
+      <guid>https://example.org/tags/physics-informed-neural-network/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tomographic Upscaling</title>
+      <link>https://example.org/tags/tomographic-upscaling/</link>
+      <pubDate>Tue, 03 Jun 2025 15:30:53 +0100</pubDate>
+      <guid>https://example.org/tags/tomographic-upscaling/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

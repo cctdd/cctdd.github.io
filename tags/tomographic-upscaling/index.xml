@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tomographic Upscaling on All about Earth Imaging</title>
+    <link>https://example.org/tags/tomographic-upscaling/</link>
+    <description>Recent content in Tomographic Upscaling on All about Earth Imaging</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 03 Jun 2025 15:30:53 +0100</lastBuildDate>
+    <atom:link href="https://example.org/tags/tomographic-upscaling/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome to My Research Site</title>
+      <link>https://example.org/posts/welcome/</link>
+      <pubDate>Tue, 03 Jun 2025 15:30:53 +0100</pubDate>
+      <guid>https://example.org/posts/welcome/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Here I’ll share details about my geophysical inversion work, tomographic upscaling, PINNs, and more.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;The Earth, being made up of different materials and complex structures is a heterogeneous medium. This medium, possessing different mineral constituents, undergoes numerous chemical and physical changes. Understanding the internal structure of the Earth is therefore crucial in accessing natural hazards and importantly, in making geophysical explorations related to geothermal harnessing and critical mineral mining - both of which requires precise images of the Earth&amp;rsquo;s subsurface.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
